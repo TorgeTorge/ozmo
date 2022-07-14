@@ -63,7 +63,7 @@ setup(
     # https://packaging.python.org/en/latest/requirements.html
 
     install_requires=[
-        'sleekxmppfs>=1.3.4',
+        'slixmpp>=1.8.2',
         'click>=6',
         'requests>=2.18',
         'pycryptodome>=3.4',
